@@ -28,3 +28,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Alamaofire library is a bit old so it's not responsive to the .af_setImage(withURL: posterURL!) method. Might need to update the video since this is the case. 
 
+PODS folder couldn't be updated because there were too many files...
